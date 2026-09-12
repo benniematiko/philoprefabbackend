@@ -4,7 +4,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-package-lock.json
+# package-lock.json
 yarn.lock
 # Keep package-lock.json actually - if you use npm, REMOVE this line above.
 # It's better to commit it. For yarn/pnpm, commit their lock files too.
